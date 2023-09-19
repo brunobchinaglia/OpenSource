@@ -1,5 +1,6 @@
 # OpenSource
 Repositório destinado para a realização da disciplina de Open Source
+O projeto escolhido foi o problema 9 do link:https://github.com/Franzininho/franzininho-c0-exemplos-stm32cubeide
 
 ## Código do Pograma
 ```INO
