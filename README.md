@@ -74,3 +74,10 @@ void loop() {
 
 }
 ```
+
+## Alunos
+Bruno Basckeira Chinaglia - 14562233
+Bruno Kazuya Yamato Sakaji - 14562466
+Douglas da Fontoura Pereyra - 14566686
+Henrique Vilela Zucoloto - 14578515
+Jesus Sena Fernandes - 12697470
