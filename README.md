@@ -50,7 +50,8 @@ void loop() {
 
   
   // Alterando a posição do servo motor 3 com o potenciômetro
-  // A filtragem foi feita para o cálculo da posição deste servo motor
+  // A filtragem (escala logarítmica) foi feita para o cálculo da posição deste servo motor
+  // Aposição, agora ajustada, será responsável por fornecer uma escala adequada de amplitude para o servo
   pos3 = (int) ((50 * log(value_pot)  - 180)/10) * 10 + 10;
   posicoes3[count++] = pos3;
   if(count == 20) count = 0;
